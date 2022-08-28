@@ -1,0 +1,15 @@
+echo "# ts_tutorial" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mirsaid-number1/ts_tutorial.git
+git push -u origin main
+
+
+
+// update
+
+git remote add origin https://github.com/mirsaid-number1/ts_tutorial.git
+git branch -M main
+git push -u origin main
