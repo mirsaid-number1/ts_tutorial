@@ -1,0 +1,145 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Reynold",
+      "alterEgo": "Guy"
+    },
+    {
+      "id": 2,
+      "name": "Betman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 3,
+      "name": "Superman",
+      "alterEgo": "Clark Ken"
+    },
+    {
+      "id": 4,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "id": 5,
+      "name": "Spiderman",
+      "alterEgo": "Peter Parker"
+    }
+  ],
+  "supercars": [
+    {
+      "id": 1,
+      "name": "Koensegg",
+      "alterEgo": "RS!"
+    },
+    {
+      "id": 2,
+      "name": "Bugatti",
+      "alterEgo": "Super Sport 1"
+    },
+    {
+      "id": 3,
+      "name": "Zenvo",
+      "alterEgo": "Zenvo power"
+    },
+    {
+      "id": 4,
+      "name": "BMW",
+      "alterEgo": "M5 competition"
+    },
+    {
+      "id": 5,
+      "name": "Mercedes-Benz",
+      "alterEgo": "GT 500"
+    },
+    {
+      "id": 6,
+      "name": "Nissan",
+      "alterEgo": "GTR skyline"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Mirsaid",
+      "email": "mir21.07.2004@gmail.com",
+      "phoneNumber": "+998935430714",
+      "courseID": "Web programming"
+    },
+    {
+      "id": 2,
+      "name": "Komron",
+      "email": "Komron@gmail.com",
+      "phoneNumber": "+998999999999",
+      "courseID": "Health organization"
+    },
+    {
+      "id": 3,
+      "name": "Mirhomid",
+      "email": "Mirhomid@gmail.com",
+      "phoneNumber": "+998935640713",
+      "courseID": "Drumming"
+    }
+  ],
+  "channels": [
+    {
+      "id": "Web programming",
+      "courses": [
+        "html",
+        "css",
+        "javascript",
+        "reactjs"
+      ]
+    },
+    {
+      "id": "Health organization",
+      "courses": [
+        "Biology",
+        "Chemistry",
+        "Anatomy"
+      ]
+    },
+    {
+      "id": "Drumming",
+      "courses": [
+        "Playing Drum",
+        "Bass",
+        "Guitar"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "yellow"
+    },
+    {
+      "id": 2,
+      "label": "green"
+    },
+    {
+      "id": 3,
+      "label": "blue"
+    },
+    {
+      "id": 4,
+      "label": "red"
+    },
+    {
+      "id": 5,
+      "label": "purple"
+    },
+    {
+      "id": 6,
+      "label": "orange"
+    },
+    {
+      "id": 7,
+      "label": "grey"
+    },
+    {
+      "id": 8,
+      "label": "black"
+    }
+  ]
+}
